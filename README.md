@@ -1,5 +1,5 @@
-# Big-Data-Analytics-Final-Project
+# Amazon Reviews Classification
 
-Final Project for CIS 545: Big Data Analytics
+Big Data Analytics
 
 Topic: Amazon Review Analysis and Classification
